@@ -1,2 +1,2 @@
-const customerName = 'bob';
-return customerName;
+var customerName = 'bob';
+
