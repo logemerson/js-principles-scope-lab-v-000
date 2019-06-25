@@ -18,5 +18,5 @@ function leastFavoriteCustomer() {
 }
 
  changeLeastFavoriteCustomer() {
-  let leastFavoriteCustomer = 'not barb';
+  let leastFavoriteCustomer = 'not bab';
 }
