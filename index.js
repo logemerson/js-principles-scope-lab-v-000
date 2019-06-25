@@ -8,3 +8,4 @@ function setBestCustomer() {
   console.log('setBestCustomer enacted');
   bestCustomer = 'not bob';
 }
+
