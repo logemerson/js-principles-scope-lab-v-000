@@ -1,1 +1,1 @@
-const bob = 'bob'
+const bob = 'bob';
