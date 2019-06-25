@@ -15,5 +15,5 @@ function overwriteBestCustomer() {
 }
 
 function changeLeastFavoriteCustomer() {
-  
+  let leastFavoriteCustomer = 'not barb';
 }
