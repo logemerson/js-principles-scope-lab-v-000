@@ -5,5 +5,6 @@ function upperCaseCustomerName() {
 }
 
 function setBestCustomer() {
+  console.log('setBestCustomer enacted');
   var bestCustomer = 'not bob';
 }
